@@ -1,0 +1,391 @@
+img{
+    height: 35px;
+}
+.up{
+    
+    margin: 10px;
+   margin-left: 40px;
+   margin-bottom: 50px;
+    transform: scale(1.2);
+    
+}
+.o{
+    display: flex;
+    padding: 500px;
+    
+}
+
+.log {
+    background-color: #7dda4f;
+margin-bottom: 40px;
+     margin-left: 10px;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.up:hover{
+    color: #67d231; 
+}
+.log:hover{
+    color: white;
+    
+}
+.body{
+    display: flex;
+    color: black;
+    justify-content: center;
+    margin-top: -30px;
+}
+
+.lo{
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+input{
+    width: 450px;
+    height: 30px;
+    display: flex;
+     /* justify-content: space-around;
+     align-items: center;  */
+    background-color: #f6f2f2;
+    font-size: 15px;
+    border: none;
+}
+.ooikl{
+    display: flex;
+
+}
+.iio{
+    height: 500px;
+    width: 420px;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.pop{
+    height: 220px;
+    width: 270px;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.olo{
+    height: 220px;
+    width: 270px;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 83px;
+}
+.ooi{
+    height: 220px;
+    width: 270px;
+    border-radius: 20px;
+    margin-left: -270px;
+    margin-top: 335px;  
+}
+.oolo{
+    height: 220px;
+    width: 270px;
+    border-radius: 20px;
+    margin-left: -270px;
+    margin-top: 340px; 
+}
+.oopiuo span{
+    position: absolute;
+    bottom: 10px;
+    left: 510px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 30px;
+}
+.fu{
+    font-size: 20px;
+margin-left: 60px;
+margin-top: -170px;
+}
+.fac{
+    display: flex;
+}
+
+.om{
+    margin-bottom: -10px;
+    margin-left: -190px;
+}
+.ai a{
+    margin-left: 15px;
+}
+.ai p{
+    margin-left: 15px;
+}
+.ai{
+    border-radius: 20px;
+    margin-left: 800px;
+    margin-top: 20px;
+    width: 500px;
+    background-color: #cdffc6;
+    
+}
+.ookmpo span{
+    position: absolute;
+    bottom: 10px;
+    left: 820px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 30px;
+}
+.foot{
+    display: flex;
+
+}
+
+.ph{
+    margin-top: 15px;
+    height: 30px;
+    margin-left: 120px;
+}
+.mail{
+    height: 30px;
+    margin-left: 20px;
+}
+
+.des{
+    margin-left: 25px;
+    
+}
+.about{
+    margin-left: 100px;
+}
+.ookmlp span{
+    position: absolute;
+    bottom: 10px;
+    left: 1130px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 30px;
+}
+.ookmp span{
+    position: absolute;
+    bottom: 260px;
+    left: 820px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 30px;
+}
+.mess{
+    margin-left: 20px;
+}
+.ookm :hover{
+color: #d9d9d9;
+opacity: 70%;
+}
+.ooiu :hover{
+color: #d9d9d9;
+opacity: 65%;
+}
+.oopiuo :hover{
+color: #d9d9d9;
+opacity: 65%;
+}
+.ookmp :hover{
+color: #d9d9d9;
+opacity: 65%;
+}
+.ookmpo :hover{
+color: #d9d9d9;
+opacity: 65%;
+}
+.ookml :hover{
+color: #d9d9d9;
+opacity: 65%;
+}
+.ookmlp :hover{
+color: #d9d9d9;
+opacity: 65%;
+}
+.ookml span{
+    position: absolute;
+    bottom: 260px;
+    left: 1130px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 30px;
+}
+.ooiu span{
+    position: absolute;
+    bottom: 260px;
+    left: 510px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 30px;
+}
+.oik{
+    
+    padding-left: 280px;
+    margin-top: -60px;
+    border: none;
+    transform: scale(1.5);
+    color: #d6d6d6;
+    
+}
+.ookm span{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-left: 30px;
+    
+}
+
+.oilo{
+    height: 220px;
+    width: 270px;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+.poip{
+    height: 220px;
+    width: 270px;
+    border-radius: 20px;
+    margin-left: -270px;
+    margin-top: 340px;
+}
+.uy{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 550px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #f6f2f2;
+    padding-right: 10px;
+    margin-top: 20px;
+}
+.oopp:hover{
+    color: #ffffff;
+}
+.oopp{
+  border: none;
+  background-color: #d9d9d9 ;
+  transform: scale(1.2);
+  background-color: #67d231;
+  border-radius: 50px;
+  padding: 5px 5px;
+}
+.box{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.olmy{
+    display: flex;
+    align-items: center;
+}
+.ohooo .q:hover{
+    color: #67d231;
+}
+.ohooo .z:hover{
+    color: #67d231;
+}
+.ohooo .b:hover{
+    color: #67d231;
+}
+.ohooo .e:hover{
+    color: #67d231;
+}
+.ohooo{
+    font-size: 17px;
+    margin-bottom: 50px;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    margin-left: 650px;
+    
+}
+.min{
+    margin-left: 80px;
+    height: 80px;
+}
+.opmin{
+    padding-top: 20px;
+    height: 60px;
+}
+.ask{
+    padding-top: 30px;
+    margin-left: 80px;
+    height: 80px;
+}
+.nav{
+    display: flex;
+   align-content: space-evenly;
+   align-items: center;
+   background-color: #ffffff;
+   height: 110px;
+
+}
+.img1{
+    height: 535px;
+    width: 1196px;
+    border-radius: 25px;
+}
+.bg{
+    display: flex;
+    justify-content: center;
+   
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    display: flex;
+justify-content: end;
+margin-top: -60px;
+padding-bottom: 20px;
+}
+.rj1{
+    margin-left: 400px;
+}
+.aboutrj{
+    display: flex;
+}
+.info{
+    margin-left: 70px;
+}
+.en{
+    margin-left: 50px;
+}
+.ess{
+    display: flex;
+    align-content: space-around;
+}
